@@ -10,7 +10,7 @@ Ante esta situación surge Handy, un guante electrónico diseñado para apoyar l
 ![Productos comerciales (1)](https://github.com/user-attachments/assets/e8efa1b8-2814-4b3f-81f3-c0363b5c26a0)
 - Rejoyce
 ![Productos comerciales (2)](https://github.com/user-attachments/assets/a470e5ca-63ef-4c5a-95bf-933e221e64e8)
--Férula de reposo dinámica para mano Saebostretch
+- Férula de reposo dinámica para mano Saebostretch
 ![Productos comerciales](https://github.com/user-attachments/assets/13843ca6-f0c5-4be7-9388-2270afd80969)
 
 ## Pantente
