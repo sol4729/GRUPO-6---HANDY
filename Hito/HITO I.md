@@ -13,7 +13,7 @@ Ante esta situación surge Handy, un guante electrónico diseñado para apoyar l
 - Férula de reposo dinámica para mano Saebostretch
 ![Productos comerciales](https://github.com/user-attachments/assets/13843ca6-f0c5-4be7-9388-2270afd80969)
 
-## Pantente
+## Patente
 - MODELO DE UTILIDAD - ES2960596T3 Dispositivo de rehabilitación de nudillos.
 
   El presente modelo de utilidad muestra la propuesta para una ayuda para ejercicios de rehabilitación de nudillos en el dedo medio, una ayuda para ejercicios de     rehabilitación de nudillos en el dedo anular, una ayuda para ejercicios de rehabilitación de nudillos en el dedo meñique, y una ayuda para el ejercicio de          rehabilitación de los nudillos del pulgar; al menos un tubo corrugado; y un equipo de protección, fijado en la muñeca y la palma. El dispositivo de               rehabilitación  de nudillos se coloca en los dedos de un paciente por medio de piezas de goma en las ayudas para el ejercicio de rehabilitación de nudillos, y hace que los dedos del paciente se muevan mientras los tubos corrugados obligan a las piezas de goma a doblarse y enderezarse controlando el aire.
